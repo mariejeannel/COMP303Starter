@@ -22,6 +22,7 @@ public class Item
 		aName = pName;
 		aId = pId;
 		aPrice = pPrice;
+		// this is not fucking working
 	}
 	
 	/**

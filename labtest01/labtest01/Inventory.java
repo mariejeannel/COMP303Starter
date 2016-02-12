@@ -8,6 +8,7 @@ import java.util.HashMap;
  */
 public class Inventory
 {
+	//this is a test
 	private final String aName; // Unique
 	private final HashMap<Item, Integer> aInventory = new HashMap<>();
 	
